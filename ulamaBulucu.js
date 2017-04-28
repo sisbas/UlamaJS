@@ -1,7 +1,7 @@
 /**
  * Created by SEMİH on 28.04.2017.
  */
-var deger = "semih işbaş aptal ahmak deneme yanılma";
+var deger = "semih işbaş acil adil deneme yanılma";
 
 
 var sessizHarfler = "bcçdfgğhjklmnprsştvyz";
